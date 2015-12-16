@@ -11,3 +11,8 @@ $ git clone git@github.com:omoon/CarbonViaComposer
 $ cd CarbonViaComposer
 $ composer install
 ```
+
+## 参考
+
+* [Carbon](http://carbon.nesbot.com)
+* [Composer](https://getcomposer.org)
